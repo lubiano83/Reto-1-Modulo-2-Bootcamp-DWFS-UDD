@@ -1,0 +1,21 @@
+Programa con manejo aleatorio de datos. 
+
+
+Instrucciones
+Crea un programa “jugar_piedra_papel_tijera” que simule el juego de “piedra, papel o tijera”.
+Aplica para dos jugadores.
+
+Consideraciones
+Investiga el concepto “prompt” en la documentación de JavaScript para introducir datos en la consola.
+Usa if o else como mejor te convenga.
+Puedes utilizar if anidados, sin embargo, si puedes sintetizar lo más que puedas, mucho mejor. 
+
+
+Programa con iteraciones.
+
+Instrucciones
+Crea un programa “listar_super” que muestre el listado de un conjunto de frutas, encontrados en un arreglo.
+
+Consideraciones
+Usa forEach
+De preferencia, ten 20 frutas
